@@ -20,7 +20,7 @@ Your emotion. Your frequency. Your music. This application uses DeepFace for fac
 ## Running Locally
 1. Install dependencies: `pip install -r requirements.txt`
 2. Set `YOUTUBE_API_KEY` environment variable.
-3. Run the app: `python app.py`
+3. Run the app: `python app.py`   Hosted link is available - https://mrcharcoal-moodbeats.hf.space
 
 ## Hugging Face Deployment
 This space is configured to run via Docker. Ensure you set the `YOUTUBE_API_KEY` in the **Settings -> Secrets** tab of your Space for it to function correctly.
